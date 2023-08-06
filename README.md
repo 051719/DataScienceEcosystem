@@ -1,2 +1,2 @@
-# dataScienceEcosystem
+# DataScienceEcosystem
 Share your notebook through GitHub
